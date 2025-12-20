@@ -1,4 +1,10 @@
 {
     "app_name": "My ToDo App",
-    "enter_str": "Enter a todo:"
+    "enter_todo": "Enter a todo:",
+    "enter_username": "Enter your username to check:",
+    "about": "This is a simple easy to use task manager. You can add, and delete your tasks/todo items.\n To add a todo, simply type it into the input box and press enter. To delete a todo, click the checkbox button next to the respective item.",
+    "login_signup": "To create a account or login, type in a username that you will remember. If you are\n a new user, you will be prompted with a sign up button. When you click it, a account will\n be created for you. When you log back in just type in the same username and press enter you will be logged in automatically. When creating a new account, make sure to keep it at least 8 characters long.",
+    "username_exitesnce": "If the username you entered already exists, you will be logged in automatically. If not,\n you will be prompted to sign up. You can check if the username you want to sign up with exists\n by clicking the 'Check' button.",
+    "s": "Sorry, the username you entered already exists. Please try a different one to sign up with",
+    "w": "You can sign up with this username today! Go to the Todos page to create your account."
 }
