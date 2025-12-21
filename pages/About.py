@@ -14,6 +14,7 @@ with st.expander("How to use"):
 with st.expander("Create a account/login"):
     st.write(data['login_signup'])
 
+# -expander to check if username exists or not.-
 with st.expander("Check your username"):
     st.write(data['username_exitesnce'])
 

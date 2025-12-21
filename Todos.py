@@ -55,8 +55,7 @@ def addwebtodo():
     st.session_state['newtodo'] = ""
 
 st.title(data['app_name'])
-st.subheader("Welcome to the Web Page")
-st.write("This app is to increase your productivity")
+st.subheader("Your Todos:")
 
 # -Display To-Do items with checkboxes. Creates the objects as well.-
 for index, todo in enumerate(todos):
